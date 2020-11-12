@@ -1,0 +1,4 @@
+% declare an array of possible actions with cost and value associated
+enum actions;
+array[actions] of int: costs;
+array[actions] of int: value;
